@@ -1,0 +1,13 @@
+div.box {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  background-color: rgb(130, 130, 130);
+  border-radius: 50%;
+}
+form.range-bars {
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
